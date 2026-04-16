@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fuzzy_telegram")(type "KiCad")(uri "/Users/michaelshipman/Developer/fuzzy-telegram/Hardware/lib/fuzzy_telegram.kicad_sym")(options "")(descr ""))
+)

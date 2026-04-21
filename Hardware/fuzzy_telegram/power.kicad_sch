@@ -7818,6 +7818,12 @@
 		(uuid "52d2b7e2-d4c6-48e8-8194-8d4507a89b9b")
 	)
 	(junction
+		(at 90.17 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56868087-3ce1-4c05-b189-64aae9ab18cc")
+	)
+	(junction
 		(at 101.6 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11397,6 +11403,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 31.75) (xy 90.17 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9ca6e2e-f99d-4865-8d99-9fe8c13440a3")
+	)
+	(wire
+		(pts
 			(xy 255.27 74.93) (xy 255.27 77.47)
 		)
 		(stroke
@@ -12184,6 +12200,17 @@
 			(type default)
 		)
 		(uuid "ff0b4a8c-922e-4095-89e5-951083bafce7")
+	)
+	(hierarchical_label "DDR_VREF"
+		(shape input)
+		(at 88.9 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e2673b53-6a28-4dee-a622-6bf3fde42172")
 	)
 	(symbol
 		(lib_id "power:GND")

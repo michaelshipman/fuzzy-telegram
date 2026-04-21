@@ -4004,7 +4004,7 @@
 			(uuid "549eca32-4401-48da-b729-7c32f0164613")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "C40")
 					(unit 1)
@@ -4069,7 +4069,7 @@
 			(uuid "e24d83b2-4b32-463d-b88b-770e64b2bb5b")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "#PWR034")
 					(unit 1)
@@ -4139,7 +4139,7 @@
 			(uuid "1f7ebeb8-8dbc-4531-af8a-2506ca8d820e")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "R3")
 					(unit 1)
@@ -4204,7 +4204,7 @@
 			(uuid "fcf4ac56-0cc2-41ac-8d5c-f5d70cbd9816")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "#PWR037")
 					(unit 1)
@@ -4269,7 +4269,7 @@
 			(uuid "be952b88-231d-4059-8378-f60f126e6bbb")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "#PWR035")
 					(unit 1)
@@ -4474,7 +4474,7 @@
 			(uuid "3a341fa8-b711-47e4-9556-0f545f34c286")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "#PWR040")
 					(unit 1)
@@ -4896,7 +4896,7 @@
 			(uuid "271b0809-d5db-49de-8a09-960f44f3e7b6")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "R1")
 					(unit 1)
@@ -4966,7 +4966,7 @@
 			(uuid "b0a16989-df0d-4dbc-ac82-ddfdb3fcc2a4")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "C38")
 					(unit 1)
@@ -5101,7 +5101,7 @@
 			(uuid "60cb100b-b79d-40a4-b891-ba66cf34f665")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "#PWR036")
 					(unit 1)
@@ -5166,7 +5166,7 @@
 			(uuid "47cc936f-d2be-486a-8966-d361c283fff6")
 		)
 		(instances
-			(project ""
+			(project "fuzzy_telegram"
 				(path "/2baa7eb5-9002-4b17-8dfd-61163ccb62cc/600c88d3-9f94-4e6e-a679-a94d49cb1522"
 					(reference "#PWR038")
 					(unit 1)
